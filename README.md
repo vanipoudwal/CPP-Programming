@@ -1,2 +1,2 @@
 # CPP-Programming
-This Repository Is Used To Write C++ Programming Code.
+This repository is used to write C++ Programming code.
